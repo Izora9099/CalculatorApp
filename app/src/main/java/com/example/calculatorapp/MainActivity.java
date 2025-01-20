@@ -2,6 +2,7 @@ package com.example.calculatorapp;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
@@ -27,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
     private double secondValue;
     private TextView inputDisplay, outputDisplay;
     private DecimalFormat decimalFormat;
-    private MaterialButton button0, button1, button2, button3, button4, button5, button6, button7, button8, button9, buttonDot, buttonAdd, buttonSub, buttonMultiply, buttonDivide, buttonPercent, buttonClear, buttonOFF, buttonEqual;
+    private Button button0, button1, button2, button3, button4, button5, button6, button7, button8, button9, buttonDot, buttonAdd, buttonSub, buttonMultiply, buttonDivide, buttonPercent, buttonClear, buttonOFF, buttonEqual;
 
 
     @Override

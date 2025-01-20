@@ -29,10 +29,11 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginLeft="8dp"
-        android:layout_marginRight="8dp"
         android:background="@color/white"
         android:gravity="bottom">
+<!--        android:layout_marginLeft="8dp"-->
+<!--        android:layout_marginRight="8dp"-->
+
     <include
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:rowCount="5"
         android:columnCount="4">
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/off"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -22,7 +22,7 @@
             android:layout_row="0"
             android:layout_column="0"
             android:layout_columnWeight="1"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/clear_text"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -35,7 +35,7 @@
             android:layout_column="1"
             android:layout_columnWeight="1"/>
 
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/percent"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -48,7 +48,7 @@
             android:layout_column="2"
             android:layout_columnWeight="1"/>
 
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/division"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -61,7 +61,7 @@
             android:layout_column="3"
             android:layout_columnWeight="1"/>
 
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn7"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -76,7 +76,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
 
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn8"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -90,7 +90,7 @@
             android:layout_columnWeight="1"
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn9"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -104,7 +104,7 @@
             android:layout_columnWeight="1"
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/multiply"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -116,7 +116,7 @@
             android:layout_row="1"
             android:layout_column="3"
             android:layout_columnWeight="1"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn4"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -130,7 +130,7 @@
             android:layout_columnWeight="1"
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn5"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -144,7 +144,7 @@
             android:layout_columnWeight="1"
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn6"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -158,7 +158,7 @@
             android:layout_columnWeight="1"
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"/>
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/subtract"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -171,7 +171,7 @@
             android:layout_column="3"
             android:layout_columnWeight="1"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn1"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -186,7 +186,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn2"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -201,7 +201,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn3"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -216,7 +216,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/add"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -230,7 +230,7 @@
             android:layout_columnWeight="1"
 
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btn0"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -245,7 +245,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/btnPoint"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
@@ -260,7 +260,7 @@
             app:strokeColor="@color/lavender"
             app:strokeWidth="3dp"
             />
-        <com.google.android.material.button.MaterialButton
+        <Button
             android:id="@+id/equal"
             android:layout_width="wrap_content"
             android:layout_height="100dp"
