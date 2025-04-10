@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CalculatorApp</string>
+    <string name="app_name">Calculator</string>
     <string name="off_text">OFF</string>
     <string name="clear_text">C</string>
     <string name="modulus_operator">%</string>
