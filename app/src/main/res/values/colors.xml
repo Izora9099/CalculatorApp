@@ -4,6 +4,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="lavender">#8692f7</color>
     <color name="background">#FFFFFF</color>
+    <color name="screen_background">#FDF5F5</color>
     <color name="button_background">#FFFFFF</color>
-    <color name="button_text">#8692f7</color>
+    <color name="button_text">#3F51B5</color>
 </resources>
